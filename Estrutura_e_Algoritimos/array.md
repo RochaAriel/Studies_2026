@@ -25,3 +25,7 @@ console.log(a.length);         // 4
 
 const a[] => console.log(object.keys(a)); => ["0","1","2","3"]
 const a[] => 10 , 20 , 30 ,40 ( 0,1,2,3,) = posicao 4
+
+####
+
+Por isso JS ->  Uma lista ordenada de valores, acessados por índice numérico que começa em 0.
