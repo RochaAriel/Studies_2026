@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/* colocando cores nos fundo  */
+
+
+
+.formulario{
+/* . Signidica selecionar classse # Signidica selecionar id  */     
+
+height: 40px;
+width: 300px;
+}
+
+#email{
+    width: 100px;
+    /* Quanto mais especifico ( mais fundo ) maior a prioridade */  
+}
