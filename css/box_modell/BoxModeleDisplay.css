@@ -1,0 +1,23 @@
+/*Entendendo box model 
+
+- Todo elemento tem : 
+
+border - borda do elemento ( conteudo )
+
+margin - margem do elemento ( espaço entre elementos )
+
+padding - preenchimento do elemento ( espaço entre borda e conteúdo )
+
+conteúdo
+*/
+.box1{
+background-color: #ccc;
+margin-bottom: 20px;
+border: 2px solid #000;
+padding: 10px;
+}
+
+
+.box2{
+    background-color: #999;
+}
