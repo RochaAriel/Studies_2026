@@ -3,18 +3,29 @@
 - Todo elemento tem : 
 
 border - borda do elemento ( conteudo )
+margin - margem do elemento ( espaço externo entre elementos )
+padding - preenchimento do elemento ( espaço interno entre borda e conteúdo )
+width - largura do elemento ( largura do conteúdo )
+height - altura do elemento ( altura do conteúdo )
+display - define como o elemento será exibido na página, se será exibido ou não,
+ se será exibido em linha ou em bloco, entre outros.
 
-margin - margem do elemento ( espaço entre elementos )
 
-padding - preenchimento do elemento ( espaço entre borda e conteúdo )
 
-conteúdo
 */
+
+body{
+box-sizing: border-box;
+margin: 0;
+}
 .box1{
 background-color: #ccc;
 margin-bottom: 20px;
 border: 2px solid #000;
-padding: 10px;
+padding-bottom: 10px;
+width: 300px;
+height: 300px;
+display: 
 }
 
 
